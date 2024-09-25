@@ -1,5 +1,5 @@
 ## Project Description: Countdown Timer
-This project is a simple countdown timer web application that allows users to input a target date and time, and then displays the remaining time in years, months, days, hours, minutes, and seconds. The application is built using HTML, CSS, and JavaScript.
+This project is a simple countdown timer web application that allows users to input a target date, and then displays the remaining time in years, months, days, hours, minutes, and seconds. The application is built using HTML, CSS, and JavaScript.
 
 ## Files and Their Roles:
 ### index.html
